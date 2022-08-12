@@ -1,4 +1,4 @@
-# GitHub Training Kit
+# GitHub Training Kit - Marian DUMITRU
 
 This is the official courseware for the [GitHub Training Team](http://training.github.com). This repository provides open source materials and slides for teaching GitHub Classes under the [_CC BY 4.0_ license](http://creativecommons.org/licenses/by/4.0/).
 
